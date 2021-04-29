@@ -1,2 +1,0 @@
-# SRAM
-SRAM simulation model
